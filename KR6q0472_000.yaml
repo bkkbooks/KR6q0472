@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6q0472/j/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+  markers:
+  - {type: 序, offset: 0, content: 序, id: KR6q0472_J_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 屾峰憲禪師語錄
+  edition:
+    short: j
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J34/J34nB298.xml
+    old_id: J34nB298
+hash: sha256:4be04dfbcfc92e5673c18f09560fc6865fe05d31b6300f0458e42fc45ca2f1da
